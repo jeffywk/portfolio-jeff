@@ -4,8 +4,8 @@
 A website that presents a portfolio for Jeff Knoespel. Includes an "about me" section, a "projects" section, and a "contact" section. 
 
 ## Built with
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://jeffywk.github.io/portfolio-jeff/
